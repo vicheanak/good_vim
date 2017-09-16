@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kimthy/.ssh'
+let g:netrw_dirhist_2='/usr/local/bin'
+let g:netrw_dirhist_3='/var/www/ultimateloanmanager'
+let g:netrw_dirhist_4='/var/www/logistic'
+let g:netrw_dirhist_5='/var/www/loan/ultimateloanmanager'
+let g:netrw_dirhist_6='/var/www/html/site_backup_3/wp-content/themes/hestia'
+let g:netrw_dirhist_7='/var/www/html/site_backup_3/wp-content/themes'
+let g:netrw_dirhist_8='/var/www/html/site_backup_3/wp-content'
